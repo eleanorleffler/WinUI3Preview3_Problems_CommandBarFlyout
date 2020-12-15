@@ -18,7 +18,7 @@ The button in the WinUI3 Preview3 application has a ">" next to the icon whereas
 See Screenshots below to compare differences.
 
 **Steps to reproduce the bug**
-1. Clone the [WinUI3 Problems CommandBarFlyout repository](https://github.com/eleanorleffler/WinUI3Preview3_Problems_CommandBarFlyout).
+1. Clone the repository.
 2. Go to the CommandBarFlyoutWinUIPreview3 folder.
 3. Open the CommandBarFlyoutWinUIPreview3 solution in Visual Studio 2019 Preview.
 4. Build and run with Debug x64.
@@ -32,9 +32,11 @@ Build and run the CommandBarFlyoutUWP inside the CommandBarFlyoutUWP folder to s
 
 **Screenshots**
 
+![CommandBarFlyoutExpectedBehavior](https://github.com/eleanorleffler/WinUI3Preview3_Problems_CommandBarFlyout/blob/main/Screenshots/ExpectedBehavior.PNG)
 
 Screenshot#1 - Expected Appearance (UWP)
 
+![CommandBarFlyoutExpectedBehavior](https://github.com/eleanorleffler/WinUI3Preview3_Problems_CommandBarFlyout/blob/main/Screenshots/CurrentBehavior.PNG)
 
 Screenshot#2 - Current Appearance (WinUI3 Desktop)
 
